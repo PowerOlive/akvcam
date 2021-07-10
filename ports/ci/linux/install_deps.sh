@@ -50,9 +50,12 @@ ${EXEC} apt-get -qq -y install \
     g++ \
     git \
     kmod \
+    libdbus-1-3 \
     libelf-dev \
-    libxkbcommon-x11-0 \
+    libfontconfig1 \
     libwayland-cursor0 \
+    libxkbcommon-x11-0 \
+    libxrender1 \
     make \
     python3 \
     sparse \
